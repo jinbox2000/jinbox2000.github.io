@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Jinbo Xie / Site Title"
+title                    : #"Jinbo Xie / Site Title"
 title_separator          : "-"
 name                     : &name "Jinbo Xie"
 description              : &description "Associate Research Scholar at Princeton University"

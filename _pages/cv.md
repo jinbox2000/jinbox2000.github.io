@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D, Metereology, Institute of Atmospheric Physics, CAS, 2017
-* B.S. Beijing Normal University, 2011
+* B., Beijing Normal University, 2011
 
 Work experience
 ======

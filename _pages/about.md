@@ -7,5 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I am an Associate Research Scholar in High Meadows Environmental Institute (HMEI) of Princeton University. Broadly speaking, I am interested in earth system model (ESM) development and application, especially in stratospheric chemistry/dynamic coupling and its impact on ozone, parameterization of sub-grid orographic drag in ESM, coupling of the land-surface model with the ESM to assess its impact on the atmosphere, detection and attribution of human impact on high profile extreme events.
-
+I am an Associate Research Scholar at the High Meadows Environmental Institute (HMEI) of Princeton University, where I explore how human and natural processes that shape our climate. My work focuses on advancing Earth System Models (ESMs) to better understand stratospheric chemistry–dynamics interactions, including their effects on ozone, and to improve representations of sub-grid orographic drag and land-surface–atmosphere coupling. By combining model development with observational analysis, I aim to detect and attribute human influences on extreme climate events, providing insights that can guide mitigation and adaptation strategies.

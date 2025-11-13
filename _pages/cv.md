@@ -16,7 +16,7 @@ Education
 
 Work experience
 ======
-* 2017.6-2022.4 Institute of Atmospheric Physics, Chinese Academy of Sciences, Postdoctoral Fellow/Research Associate/Associate Professor
+* 2017.6-2022.4 Institute of Atmospheric Physics, Chinese Academy of Sciences, Postdoctoral Fellow/Research Associate/Associate Professor (non-tenured)
 * 2022.4-2025.1 Lawrence Livermore National Lab, Postdoc Research Staff
 * 2025.1-now        HMEI, Princeton University, Associate Research Scholar
   

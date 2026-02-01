@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D, Metereology, University of Chinese Academy of Sciences, 2017
-* B., Beijing Normal University, 2011
+* B.A., Beijing Normal University, 2011
 
 Work experience
 ======
